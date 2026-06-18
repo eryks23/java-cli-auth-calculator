@@ -4,7 +4,6 @@
 
 [![Java](https://img.shields.io/badge/Java-8%2B-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://adoptium.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Single File](https://img.shields.io/badge/dependencies-none-brightgreen)]()
 
 ## Description
 
