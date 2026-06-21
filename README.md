@@ -187,7 +187,7 @@ Contributions are welcome. To propose a change:
    ```
 5. Open a Pull Request against `main` and describe what the change does and why.
 
-Please keep pull requests focused on a single concern. Bug reports and feature suggestions can be filed as [GitHub Issues](https://github.com/eryks23/java-cli-auth-calculator/issues).
+Please keep pull requests focused on a single concern. Bug reports and feature suggestions can be filed as GitHub Issues
 
 ---
 
